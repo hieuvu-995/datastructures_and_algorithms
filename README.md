@@ -43,7 +43,7 @@ Giải thuật(thuật toán) là 1 tập hợp hữu hạn các chỉ thị đ�
 + Giải thuật cập nhập: Update phần tử đã tồn tại.
 + Giải thuật xóa: Xóa 1 phần tử đang tồn tại.
 
-* Đặc điểm giải thuật
+- Đặc điểm giải thuật
 + Tính xác định: nên rõ ràng và không mơ hồ
 + Dữ liệu đầu vào xác định: nên có 0 hoặc nhiều hơn dữ liệu đầu vào
 + Kết quả đầu ra: nên có 1 or nhiều hơn
@@ -52,7 +52,7 @@ Giải thuật(thuật toán) là 1 tập hợp hữu hạn các chỉ thị đ�
 + Tính phổ biến
 + Độc lập: 1 giải thuật nên có chỉ thị độc lập vs bất kỳ phần code lập trình nào
 
-* Phân tích giải thuật
+- Phân tích giải thuật
 Phân tích hiệu quả dựa trên 2 góc độ:
 trước và sau khi triển khai.
 +) Phân tích lý thuyết: chỉ dựa trên lý thuyết. Hiệu quả được đánh giá bằng giả sử các yếu tố khác là hằng số và không ảnh hưởng tới triển khai giải thuật.
